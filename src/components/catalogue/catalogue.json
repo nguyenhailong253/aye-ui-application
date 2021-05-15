@@ -1,0 +1,25 @@
+{
+    "products": [
+      {
+        "name": "iphone",
+        "price": 100,
+        "hasEnoughStock": true
+      },
+      {
+        "name": "macbook",
+        "price": 10000,
+        "hasEnoughStock": true
+      },
+      {
+        "name": "headphones",
+        "price": 2000,
+        "hasEnoughStock": true
+      },
+      {
+        "name": "charger",
+        "price": 500,
+        "hasEnoughStock": true
+      }
+    ],
+    "catalogueId": "460552d5-d260-4dde-b5b9-c6abd698c2a3"
+  }

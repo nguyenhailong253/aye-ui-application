@@ -1,0 +1,10 @@
+.catalogue-title-page {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.toCheckOut {
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,25 @@
+{
+    "items": [
+        {
+            "product": {
+                "name": "charger",
+                "price": 500,
+                "hasEnoughStock": true
+            },
+            "quantity": 1,
+            "totalPrice": 500
+        },
+        {
+            "product": {
+                "name": "iphone",
+                "price": 100,
+                "hasEnoughStock": true
+            },
+            "quantity": 3,
+            "totalPrice": 300
+        }
+    ],
+    "id": "58a0f38c-7d92-41b6-af71-32691149d843",
+    "userEmail": "test.test@hotmail.com",
+    "totalPrice": 800
+}

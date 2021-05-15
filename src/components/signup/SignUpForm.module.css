@@ -1,0 +1,30 @@
+.signUpForm {
+    width: 500px;
+    margin: 12.5% auto;
+    background: #ffffff;
+    box-shadow: 0px 14px 80px rgba(34, 35, 58, 0.2);
+    padding: 40px 55px 45px 55px;
+    border-radius: 15px;
+    transition: all .3s;
+}
+
+.signUpHeader {
+    text-align: center;
+}
+
+.alreadyRegistered {
+    text-align: right;
+    font-size: 14px;
+    padding-top: 10px;
+    color: #7f7d7d;
+    margin: 0;
+}
+
+.logInLink {
+    color: #167bff;
+    padding-left: 5px;
+}
+
+.errorMessage {
+    color: red;
+}

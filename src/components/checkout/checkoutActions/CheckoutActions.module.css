@@ -1,0 +1,9 @@
+.checkoutActions {
+    margin: 5% 10%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.total {
+    font-size: xx-large;
+}

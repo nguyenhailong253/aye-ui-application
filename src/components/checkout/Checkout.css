@@ -1,0 +1,10 @@
+.checkout-title-page {
+    font-size: xx-large;
+    text-align: center;
+}
+
+.goShopping {
+    margin: 3%;
+    display: flex;
+    justify-content: center;
+}

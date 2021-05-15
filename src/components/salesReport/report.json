@@ -1,0 +1,89 @@
+{
+    "receipts": [
+        {
+            "itemsPurchased": [
+                {
+                    "product": {
+                        "name": "iphone",
+                        "price": 100,
+                        "hasEnoughStock": true
+                    },
+                    "quantity": 1,
+                    "totalPrice": 100
+                },
+                {
+                    "product": {
+                        "name": "macbook",
+                        "price": 10000,
+                        "hasEnoughStock": true
+                    },
+                    "quantity": 2,
+                    "totalPrice": 20000
+                }
+            ],
+            "totalPrice": 20100,
+            "amountPaid": 20100,
+            "paymentMethod": "Paypal",
+            "userEmail": "test.user1@hotmail.com",
+            "transactionDate": "2021/05/12 21:40:31"
+        },
+        {
+            "itemsPurchased": [
+                {
+                    "product": {
+                        "name": "iphone",
+                        "price": 100,
+                        "hasEnoughStock": true
+                    },
+                    "quantity": 1,
+                    "totalPrice": 100
+                },
+                {
+                    "product": {
+                        "name": "macbook",
+                        "price": 10000,
+                        "hasEnoughStock": true
+                    },
+                    "quantity": 2,
+                    "totalPrice": 20000
+                }
+            ],
+            "totalPrice": 20100,
+            "amountPaid": 20100,
+            "paymentMethod": "Paypal",
+            "userEmail": "test.user1@hotmail.com",
+            "transactionDate": "2021/05/13 09:19:52"
+        },
+        {
+            "itemsPurchased": [
+                {
+                    "product": {
+                        "name": "iphone",
+                        "price": 100,
+                        "hasEnoughStock": true
+                    },
+                    "quantity": 1,
+                    "totalPrice": 100
+                },
+                {
+                    "product": {
+                        "name": "macbook",
+                        "price": 10000,
+                        "hasEnoughStock": true
+                    },
+                    "quantity": 2,
+                    "totalPrice": 20000
+                }
+            ],
+            "totalPrice": 20100,
+            "amountPaid": 20100,
+            "paymentMethod": "Paypal",
+            "userEmail": "test.user1@hotmail.com",
+            "transactionDate": "2021/05/13 09:25:00"
+        }
+    ],
+    "reportProductName": "iphone",
+    "period": "1",
+    "totalSales": 300,
+    "totalQuantity": 3
+}
